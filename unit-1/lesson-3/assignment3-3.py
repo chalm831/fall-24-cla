@@ -23,3 +23,10 @@ blended_img.save("blended3.jpg")
 
 # blended_img.save("blended2.jpg")
 #that did not work out lol, my research said it would have to be like first two and then bledn again to the third?? how accurate that is im not sure
+
+
+
+# img3 = Image.open( sys.argv[3] )
+
+# three_image_variable = image.blend (blended_img, img3, .3)
+
